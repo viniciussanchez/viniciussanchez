@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=viniciussanchez)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-sanchez/)](https://www.linkedin.com/in/vinicius-sanchez/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:juliosenha@gmail.com)](mailto:viniciuss.sanchez@gmail.com)
+![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-sanchez/)
+![](https://img.shields.io/badge/-Medium-fa6132?style=flat&logo=Medium&logoColor=white&link=https://vinicius-sanchez.medium.com)
+![](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:viniciuss.sanchez@gmail.com)
 ![](https://img.shields.io/youtube/channel/subscribers/UChvY9l3AR7igAKX1TmdpAKw?style=social)
 
 <!--
